@@ -8,7 +8,7 @@
 [![GitHub dayanara846](https://img.shields.io/github/followers/dayanara846?label=follow&style=social)](https://github.com/dayanara846)
 
 
-### <img src="https://github.com/dayanara846/dayanara846/blob/main/1ILH.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif" width="50"> A little more about me...  
 
 ```python
 class Dayanara846:
@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
 ```
 
-<img src="https://media.giphy.com/media/26BkNnO2qmCWTQuac/giphy.gif" width="60"> <em><b>I love taking up new challenges,  </b> so if you want to collaborate on a new project, <b> I'll be happy to join your venture!</b> :)</em>
+<img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="60"> <em><b>I love taking up new challenges,  </b> so if you want to collaborate on a new project, <b> I'll be happy to join your venture!</b> :)</em>
 
 
 
