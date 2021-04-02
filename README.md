@@ -35,7 +35,7 @@ if __name__ == '__main__':
 ## Get in touch
 
 - Twitter: https://twitter.com/dayanara846
-- Personal Site: dayanara846.github.io
+- Personal Site: https://dayanara846.github.io/#/
 
 ## Latest Posts (Spanish)
 
