@@ -40,6 +40,12 @@ if __name__ == '__main__':
 
 ```
 
+## Get in touch
+
+- Twitter: https://twitter.com/dayanara846
+- Personal Site: https://dayanara846.github.io/#/
+
+
 <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="60"> <em><b>I love taking up new challenges,  </b> so if you want to collaborate on a new project, <b> I'll be happy to join your venture!</b> :)</em>
 
 
