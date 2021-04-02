@@ -1,5 +1,8 @@
 ## Hi, I'm Dayanara
-![](https://giphy.com/gifs/caitlinburns-glitch-finance-stock-market-l41lZBP84rdzHnWA8)
+[![Banner][banner-img]][banner-link]
+
+
+
 
 
 
@@ -40,8 +43,6 @@ if __name__ == '__main__':
 - Twitter: https://twitter.com/dayanara846
 - Personal Site: https://dayanara846.github.io/#/
 
-## Latest Posts (Spanish)
-
-{% for post in latest_post %}
-- [{{post.title}}]({{post.link}})
-{%  endfor %}
+<!-- Link anchors -->
+[banner-img]: https://giphy.com/gifs/caitlinburns-glitch-finance-stock-market-l41lZBP84rdzHnWA8
+[banner-link]: https://dayanara846.github.io/#/
