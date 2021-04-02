@@ -44,5 +44,5 @@ if __name__ == '__main__':
 - Personal Site: https://dayanara846.github.io/#/
 
 <!-- Link anchors -->
-[banner-img]: https://github.com/dayanara846/dayanara846/blob/main/EHil.gif
+[banner-img]: https://github.com/dayanara846/dayanara846/blob/main/1ILH.gif
 [banner-link]: https://dayanara846.github.io/#/
