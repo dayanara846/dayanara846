@@ -1,11 +1,14 @@
-## Hi, I'm Dayanara
-[![Banner][banner-img]][banner-link]
+<h2> Hi, I'm Dayanara M. Diaz Vargas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/f0ZbMyENLt50v1j4Ql/giphy.gif" width="230">
+<p><em>Quantitative Analyst at <a href="https://www.1firstbank.com">FirstBank PR.
+</br> Adventurer full time.
+</em></p>
+
+[![Twitter: dayanara846](https://img.shields.io/twitter/follow/dayanara846?style=social)](https://twitter.com/dayanara846)
+[![GitHub dayanara846](https://img.shields.io/github/followers/dayanara846?label=follow&style=social)](https://github.com/dayanara846)
 
 
-
-
-
-
+### <img src="https://github.com/dayanara846/dayanara846/blob/main/1ILH.gif" width="50"> A little more about me...  
 
 ```python
 class Dayanara846:
@@ -37,12 +40,7 @@ if __name__ == '__main__':
 
 ```
 
+<img src="https://media.giphy.com/media/26BkNnO2qmCWTQuac/giphy.gif" width="60"> <em><b>I love taking up new challenges,  </b> so if you want to collaborate on a new project, <b> I'll be happy to join your venture!</b> :)</em>
 
-## Get in touch
 
-- Twitter: https://twitter.com/dayanara846
-- Personal Site: https://dayanara846.github.io/#/
 
-<!-- Link anchors -->
-[banner-img]: https://github.com/dayanara846/dayanara846/blob/main/1ILH.gif
-[banner-link]: https://dayanara846.github.io/#/
