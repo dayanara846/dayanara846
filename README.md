@@ -44,5 +44,5 @@ if __name__ == '__main__':
 - Personal Site: https://dayanara846.github.io/#/
 
 <!-- Link anchors -->
-[banner-img]: https://giphy.com/gifs/caitlinburns-glitch-finance-stock-market-l41lZBP84rdzHnWA8
+[banner-img]: https://github.com/dayanara846/dayanara846/blob/main/WKX.gif
 [banner-link]: https://dayanara846.github.io/#/
