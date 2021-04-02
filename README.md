@@ -1,7 +1,7 @@
 <h2> Hi, I'm Dayanara M. Diaz Vargas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/f0ZbMyENLt50v1j4Ql/giphy.gif" width="230">
 <p><em>Quantitative Analyst at <a href="https://www.1firstbank.com">FirstBank PR.
-</br> Adventurer full time.</a>
+    
 </em></p>
 
 [![Twitter: dayanara846](https://img.shields.io/twitter/follow/dayanara846?style=social)](https://twitter.com/dayanara846)
