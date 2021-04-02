@@ -1,4 +1,7 @@
 ## Hi, I'm Dayanara
+![](https://giphy.com/gifs/caitlinburns-glitch-finance-stock-market-l41lZBP84rdzHnWA8)
+
+
 
 
 ```python
