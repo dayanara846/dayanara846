@@ -71,7 +71,7 @@ if __name__ == '__main__':
 
 
 
-<img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="60"> <em><b>I love taking up new challenges,  </b> so if you want to collaborate on a new project, <b> I'll be happy to join your venture!</b> :)</em>
+<img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="60"> <em><b>I love taking up new challenges,  </b> so if you want to collaborate on a project, <b> I'll be happy to join your venture!</b> :)</em>
 
 
 
