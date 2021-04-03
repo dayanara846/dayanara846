@@ -56,8 +56,23 @@ if __name__ == '__main__':
  
 ## Get in touch <img src="https://media.giphy.com/media/4DU9dkYHHGXxnQtln2/giphy.gif" width="50"></h2>
 
-- Twitter: https://twitter.com/dayanara846
-- Personal Site: https://dayanara846.github.io/#/
+
+<a href="https://github.com/dayanara846/dayanara846/actions"><img src="https://github.com/dayanara846/dayanara846/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
+
+<a href="https://visitor-badge.laobi.icu/badge?page_id=dayanara846.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=dayanara846.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
+
+<p></br></p>
+<p align="center">
+  <a href="https://in.linkedin.com/in/dayanara-mary-diaz-vargas/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dayanara-mary-diaz-vargas"/></a> 
+  
+  <a href="https://twitter.com/dayanara846" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+   
+  <a href="https://kaggle.com/dayanaradiazvargas" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="dayanaradiazvargas"  /></a> 
+</p>  
+
+
+
+
 
 
 <img src="https://media.giphy.com/media/BLy7N6MJNYCeMeuB18/giphy.gif" width="60"> <em><b>I love taking up new challenges,  </b> so if you want to collaborate on a new project, <b> I'll be happy to join your venture!</b> :)</em>
