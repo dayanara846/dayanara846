@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
 ```
 
-## My Stats <img src="https://media.giphy.com/media/4nOaV3vci3TEDZMG98/giphy.gif" width="50"></h2>
+## My Stats <img src="https://media.giphy.com/media/PmdWKodlTy9dKJccrJ/giphy.gif" width="50"></h2>
 
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanara846&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
