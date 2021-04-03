@@ -57,10 +57,7 @@ if __name__ == '__main__':
 ## Get in touch <img src="https://media.giphy.com/media/4DU9dkYHHGXxnQtln2/giphy.gif" width="50"></h2>
 
 
-<a href="https://github.com/dayanara846/dayanara846/actions"><img src="https://github.com/dayanara846/dayanara846/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> 
-
 <a href="https://visitor-badge.laobi.icu/badge?page_id=dayanara846.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=dayanara846.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
-
 <p></br></p>
 <p align="center">
   <a href="https://in.linkedin.com/in/dayanara-mary-diaz-vargas/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dayanara-mary-diaz-vargas"/></a> 
