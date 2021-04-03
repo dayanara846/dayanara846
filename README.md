@@ -50,6 +50,9 @@ if __name__ == '__main__':
   <br />
 </div>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=dayanara846&amp;show_icons=true" alt="GitHub Stats"></p>
+ 
+ 
 ## Get in touch
 
 - Twitter: https://twitter.com/dayanara846
