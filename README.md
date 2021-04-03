@@ -60,10 +60,10 @@ if __name__ == '__main__':
 <a href="https://visitor-badge.laobi.icu/badge?page_id=dayanara846.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=dayanara846.visitor-badge&title=Visits" align="right" alt="Visits"></a> 
 <p></br></p>
 <p align="center">
- <a href="https://in.linkedin.com/in/dayanara-mary-diaz-vargas/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dayanara-mary-diaz-vargas"/></a>  
+ <a href="https://in.linkedin.com/in/dayanara-mary-diaz-vargas/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dayanara-mary-diaz-vargas"/></a>
+ <a href="https://dayanara846.github.io/#/" target="blank"><img src="https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white" alt="dayanara846.github.io"  /></a> 
  <a href="https://twitter.com/dayanara846" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
- <a href="https://kaggle.com/dayanaradiazvargas" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="dayanaradiazvargas"  /></a>
-  <a href="https://dayanara846.github.io/#/" target="blank"><img src="https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white" alt="dayanara846.github.io"  /></a>  
+ <a href="https://kaggle.com/dayanaradiazvargas" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="dayanaradiazvargas"  /></a> 
 </p>  
 
 
