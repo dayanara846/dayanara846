@@ -1,6 +1,6 @@
 <h2> Hi, I'm Dayanara M. Diaz Vargas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/f0ZbMyENLt50v1j4Ql/giphy.gif" width="230">
-<p><em>Quantitative Analyst at <a href="https://www.1firstbank.com">FirstBank PR.
+<p><em> Economics Masters Student at <a href="https://www.northeastern.edu"> Northeastern University.
     
 </em></p>
 
